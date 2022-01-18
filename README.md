@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @sagar-nishad
-- 👀 I’m interested in Web-Development and python related stuff
-- 🌱 I’m currently learning React and Mongo-DB
-- 💞️ I’m looking to collaborate on some simple fullstack react builds
+- 👋 Hi, I’m @sagar-nishad a beginner developer. 
+- 👀 I’m interested in Front-End development and some of my other skills include Python and C. 
+- 🌱 I’m currently learning React. 
+- 💞️ I’m happy to collaborate to team projects. 
 - 📫 How to reach me
-My ig 
+LinkedIn:
+https://www.linkedin.com/in/sagar-nishad-246646204
+My ig:
 101_sagarnishad
+Email:
+101sagarnishad@gmail.com
 <!---
 sagar-nishad/sagar-nishad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
