@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sagar-nishad a beginner developer. 
-- 👀 I’m interested in Front-End development and some of my other skills include Python and C. 
+- 👀 Some of my skills include React, Sql,Python and C. 
 - 🌱 I’m currently learning React. 
 - 💞️ I’m happy to collaborate to team projects. 
 - 📫 How to reach me
