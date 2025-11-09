@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @sagar-nishad a beginner developer. 
 - 👀 Some of my intrests include NLP, CV and Multi-Modal AI. 
 - 🌱 I’m currently learning Gen AI. 
-- 💞️ I’m happy to collaborate to team projects. 
+- 💞️ I work with models. 
 
 
 ## 🌐 Socials:
